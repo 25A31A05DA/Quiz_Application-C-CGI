@@ -1,10 +1,10 @@
 Which component is known as the "brain" of the computer?|CPU
-What type of device is a keyboard?|INPUT
-What type of device is a monitor?|OUTPUT
-What kind of memory is lost when the power is turned off?|RAM
+What type of device is a keyboard?|INPUT DEVICE
+What type of device is a monitor?|OUTPUT DEVICE
+What kind of memory is lost when the power is turned off?|PRIMARY MEMORY
 What is the name for the physical parts of a computer?|HARDWARE
 What is the smallest unit of data in computing?|BIT
-What do you need to connect a computer to the Internet?|MODEM
+What kind of memory is not lost when the power is turned off?|SECONDARY MEMORY
 What is the software used to view websites called?|BROWSER
 What is the main page of a website called?|HOMEPAGE
 What is a common type of malware that can infect computers?|VIRUS
