@@ -58,12 +58,12 @@ int main() {
         to_upper(q[i]);
 
     if (strcmp(q[0], "CPU") == 0) score++;
-    if (strcmp(q[1], "INPUT") == 0) score++;
-    if (strcmp(q[2], "OUTPUT") == 0) score++;
-    if (strcmp(q[3], "RAM") == 0) score++;
+    if (strcmp(q[1], "INPUT DEVICE") == 0) score++;
+    if (strcmp(q[2], "OUTPUT DEVICE") == 0) score++;
+    if (strcmp(q[3], "PRIMARY MEMORY") == 0) score++;
     if (strcmp(q[4], "HARDWARE") == 0) score++;
     if (strcmp(q[5], "BIT") == 0) score++;
-    if (strcmp(q[6], "MODEM") == 0) score++;
+    if (strcmp(q[6], "SECONDARY MEMORY") == 0) score++;
     if (strcmp(q[7], "BROWSER") == 0) score++;
     if (strcmp(q[8], "HOMEPAGE") == 0) score++;
     if (strcmp(q[9], "SOFTWARE") == 0) score++;
